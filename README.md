@@ -94,6 +94,7 @@
 - <b>Membership Information PDF: </b> Automatically generates PDF informationn of members.
 - <b>Transaction PDF: </b> Automatically generates PDF informationn of selected transaction.
 - <b>Audit Trail: </b> Tracks and records all system activities, ensuring accountability and transparency.
+- <b>Live System Console & Audit Trail: </b> Tracks and records all system activities, ensuring accountability and transparency.
 - <b>Configurable System Settings: </b> Allows customization of various system parameters as per requirements.
 <br>
 
