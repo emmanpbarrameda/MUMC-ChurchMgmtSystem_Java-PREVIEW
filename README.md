@@ -64,14 +64,14 @@
 
 ## 💻 User Interface
 
-- <b>Customizing MySQL Connection, Splash Screen and Login GUI Preview</b>
+- <b>Customizing MySQL Connection, Splash Screen and Login GUI PREVIEW</b>
 <p align="center">
-  <img src="https://github.com/emmanpbarrameda/MUMC-ChurchMgmtSystem_Java-PREVIEW/blob/main/output-media/console-image1.png" width="300" alt="Console Image" />
+  <img src="https://github.com/emmanpbarrameda/MUMC-ChurchMgmtSystem_Java-PREVIEW/blob/main/output-folder/console-video1.gif" width="800" alt="Systen Preview" />
 </p>
 
-- <b>Admin GUIs Preview</b>
+- <b>Main Menu and Features PREVIEW</b>
 <p align="center">
-  <img src="https://github.com/emmanpbarrameda/MUMC-ChurchMgmtSystem_Java-PREVIEW/blob/main/output-media/console-image2.png" width="600" alt="Console Image" />
+  <img src="https://github.com/emmanpbarrameda/MUMC-ChurchMgmtSystem_Java-PREVIEW/blob/main/output-folder/console-video2.gif" width="800" alt="System Preview" />
 </p>
 
 
@@ -90,6 +90,7 @@
 - <b>Manageable Membership Data: </b> Record (Search, Insert, Update and Delete) Church Membership Data.
 - <b>Manageable Transaction Data: </b> Record (Search, Insert, Update and Delete) Church Transaction Data.
 - <b>Live Calendar Events Viewer:</b> The system provides a real-time calendar events viewer, allowing users to stay updated on upcoming events and activities. Users can view event details, dates, and relevant information directly within the system interface.
+- <b>Membership and Transaction Excel Report: </b> Automatically generates Excel File Report for Membership and Transaction Data.
 - <b>Membership Information PDF: </b> Automatically generates PDF informationn of members.
 - <b>Transaction PDF: </b> Automatically generates PDF informationn of selected transaction.
 - <b>Audit Trail: </b> Tracks and records all system activities, ensuring accountability and transparency.
