@@ -19,7 +19,9 @@
   <!-- private -->
   <img alt='Pocket' src='https://img.shields.io/badge/PRIVATE_PROJECT-100000?style=for-the-badge&logo=Pocket&logoColor=FFFFFF&labelColor=343434&color=343434'/>
   
-
+  <!-- preview only -->
+  <img alt='codereview' src='https://img.shields.io/badge/PREVIEW_ONLY-100000?style=for-the-badge&logo=codereview&logoColor=000000&labelColor=E0EFEF&color=E0EFEF'/>
+  
 </p>  
   
 <!-- primary badges -------------------------------------->
