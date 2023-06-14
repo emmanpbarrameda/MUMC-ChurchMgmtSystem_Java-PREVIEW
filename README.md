@@ -58,7 +58,7 @@
 <!-- ------ -->
 
 ## 🖍 About
-- The <b>"MUMChurch Membership and Transaction Management System"</b> by Emman P. Barrameda is our mini capstone project developed using Java Swing during my second year of college at URS Binangonan. This system was created based on client suggestions and includes features for recording church member data and managing church transactions. <b>Please note that this project is <u>not open source</u> due to our client's policy.</b> However, you can reach out to me for freelancing on your project, and I can incorporate similar features into your required project. Feel free to [contact me](#get-in-touch).
+- The <b>"MUMChurch Membership and Transaction Management System"</b> by Emman P. Barrameda is our <b>mini-capstone project</b> developed using Java Swing during my second year of college at URS Binangonan in <b>2021</b>. This system was created based on client suggestions and includes features for recording church member data and managing church transactions. <b>Please note that this project is <u>not open source</u> due to our client's policy.</b> However, you can reach out to me for freelancing on your project, and I can incorporate similar features into your required project. Feel free to [contact me](#get-in-touch).
 
 <br>
 
@@ -92,8 +92,8 @@
 - <b>Manageable Membership Data: </b> Record (Search, Insert, Update and Delete) Church Membership Data.
 - <b>Manageable Transaction Data: </b> Record (Search, Insert, Update and Delete) Church Transaction Data.
 - <b>Live Calendar Events Viewer:</b> The system provides a real-time calendar events viewer, allowing users to stay updated on upcoming events and activities. Users can view event details, dates, and relevant information directly within the system interface.
-- <b>Membership and Transaction Excel Report: </b> Automatically generates Excel File Report for Membership and Transaction Data.
-- <b>Membership Information PDF: </b> Automatically generates PDF informationn of members.
+- <b>List of Members and Transactions Excel Report: </b> Automatically generates an Excel file report of the list of members and transactions.
+- <b>Membership Information PDF: </b> Automatically generates PDF informationn of a selected member.
 - <b>Transaction PDF: </b> Automatically generates PDF informationn of selected transaction.
 - <b>Audit Trail: </b> Tracks and records all system activities, ensuring accountability and transparency.
 - <b>Live System Console & Audit Trail: </b> Tracks and records all system activities, ensuring accountability and transparency.
